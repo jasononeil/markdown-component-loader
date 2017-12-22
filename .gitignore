@@ -4,4 +4,4 @@ node_modules
 stats.json
 
 # `lib` is not included in git repo
-lib
+#lib
